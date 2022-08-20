@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Version",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Valid Until",
+      "value": "Forever"
+    }
+  ],
+  "description": "Our first NFT! This token is a lifetime VIP pass for Floor Report.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPvZxWp7DcgiibosPFouLmMJakfjj5snn14XvmENoQ9Hv",
+  "name": "Forever Fren"
+}
